@@ -37,7 +37,7 @@ To set up the project locally, follow these steps:
 1. **Clone the repository:**
 
     ```sh
-    git clone https://github.com/your-username/react-todo-app.git
+    git clone https://github.com/syedsm/task-app
     ```
 
 2. **Navigate to the project directory:**
