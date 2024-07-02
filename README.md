@@ -60,7 +60,7 @@ To set up the project locally, follow these steps:
 
 ## Usage
 
-Once the development server is running, open your browser and navigate to `http://localhost:3000` to see the application in action.
+Once the development server is running, open your browser and navigate to `http://localhost:5173` to see the application in action.
 
 ### Adding a Task
 
